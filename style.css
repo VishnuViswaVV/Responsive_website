@@ -1,0 +1,71 @@
+.navabar-container{
+    width:80vw;
+}
+.icon{
+    color:white;
+    margin-left:10px;
+
+}
+
+.container {
+    background-color: white;
+    width: 60vw;
+    height: 70vh;
+}
+
+.image {
+    width:270px;
+    margin-left:100Px;
+}
+
+.main-heading {
+    font-size: 35px;
+    font-weight:bold;
+}
+.para {
+    color:thistle;
+}
+.para1{
+    color:black;
+    font-size:25px;
+    font-weight:bold;
+    margin-top:9px;
+}
+.para2{
+    color:#d1d4c1;
+    font-size:20px;
+    text-decoration-line:line-through;
+    margin:10px;
+}
+.button {
+    background-color: #4b6cc1;
+    width: 200px;
+    height: 45px;
+    padding: 5px;
+    border-radius: 15px;
+    color:white;
+    margin:10px;
+}
+.star{
+    color:#b1bf47;
+}
+.bg-circle{
+    background-color:#e4e6d8;
+    border-radius:10px;
+    width:90px;
+    height:30px;
+
+}
+.bg-circle1{
+    background-color:#e4e6d8;
+    border-radius:10px;
+    width:80px;
+    height:30px;
+
+}
+.facebook{
+    color:thistle;
+    width:25px;
+    height:25px;
+    margin:10px;
+}
